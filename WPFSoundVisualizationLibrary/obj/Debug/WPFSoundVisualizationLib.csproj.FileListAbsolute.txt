@@ -1,0 +1,15 @@
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\bin\Debug\license.txt
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.XML
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.dll
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.pdb
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csprojAssemblyReference.cache
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.cache
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.lref
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\Themes\Generic.baml
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.g.resources
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.Properties.Resources.resources
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csproj.GenerateResource.cache
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csproj.CoreCompileInputs.cache
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.dll
+C:\Users\NewUser\Desktop\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.pdb
